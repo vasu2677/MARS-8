@@ -1,0 +1,31 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Large Raw Image Archives (Total ~45 GB exceeds GitHub 100MB file limit)
+images/*.tar.gz
+images/*.zip
+*.tar.gz
+*.zip
+
+# MLflow Tracking artifacts & local SQLite database
+mlruns/
+mlflow.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

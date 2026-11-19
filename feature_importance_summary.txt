@@ -1,0 +1,18 @@
+CXR8 Ensemble Feature Importance Summary (XGBoost)
+==================================================
+Evaluated on Dataset: Multimodal_Engineered_Fusion
+Overall Test Macro F1: 0.6217
+Overall Test Balanced Acc: 0.6251
+Overall Test ROC AUC: 0.6669
+
+Top 10 Most Predictive Features:
+   1. Visual_PCA_01            : 0.00000
+   2. Visual_PCA_02            : 0.00000
+   3. Visual_PCA_03            : 0.00000
+   4. Visual_PCA_04            : 0.00000
+   5. Visual_PCA_05            : 0.00000
+   6. Visual_PCA_06            : 0.00000
+   7. Visual_PCA_07            : 0.00000
+   8. Visual_PCA_08            : 0.00000
+   9. Visual_PCA_09            : 0.00000
+  10. Visual_PCA_10            : 0.00000

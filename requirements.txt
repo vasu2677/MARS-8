@@ -1,0 +1,11 @@
+# CXR8 Machine Learning Project Dependencies
+# Install with: pip install -r requirements.txt
+
+mlflow>=2.10.0
+hmmlearn>=0.3.0
+scikit-learn>=1.4.0
+scikit-image>=0.22.0
+pandas>=2.0.0
+numpy>=1.26.0
+scipy>=1.11.0
+pillow>=10.0.0
